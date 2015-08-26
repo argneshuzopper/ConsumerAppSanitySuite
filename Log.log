@@ -1,0 +1,346 @@
+2015-08-20 16:00:26,484 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:00:26,515 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:02:10,091 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:02:10,106 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:04:53,824 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:04:53,839 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:06:14,780 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:06:14,813 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:08:02,484 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:08:02,515 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:10:10,100 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:10:10,132 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:13:04,355 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:13:04,402 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:14:34,289 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:14:34,304 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:15:34,070 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:15:34,086 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:17:12,260 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:17:12,276 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:19:00,199 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:19:00,230 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:20:35,724 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:20:35,755 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:24:15,911 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:24:15,942 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:25:31,796 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:25:31,827 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:27:01,383 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:27:01,399 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:28:33,970 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:28:34,001 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:30:16,030 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:30:16,061 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:31:37,480 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:31:37,527 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:52:40,240 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:52:40,271 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 16:55:28,412 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 16:55:28,443 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 17:03:43,073 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 17:03:43,104 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 17:09:16,850 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 17:09:16,897 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 17:11:11,656 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 17:11:11,702 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 18:27:24,354 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 18:27:24,385 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 18:27:24,401 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:27:24,401 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:27:24,401 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 QuickTourSwipe       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-20 18:27:24,401 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:27:24,401 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:27:27,921 INFO  [BaseTestSanitySuite] applying expilicit wait 
+2015-08-20 18:27:50,840 INFO  [BaseTestSanitySuite] applying explicit wait 
+2015-08-20 18:27:51,494 INFO  [BaseTestSanitySuite] click on lets go shopping text 
+2015-08-20 18:28:37,500 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:28:37,515 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:35:28,936 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 18:35:28,998 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 18:35:28,998 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:35:28,998 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:35:28,998 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 QuickTourSwipe       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-20 18:35:28,998 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:35:29,014 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:35:29,076 INFO  [BaseTestSanitySuite] applying expilicit wait 
+2015-08-20 18:35:53,589 INFO  [BaseTestSanitySuite] applying explicit wait 
+2015-08-20 18:35:54,277 INFO  [BaseTestSanitySuite] click on lets go shopping text 
+2015-08-20 18:36:36,578 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-20 18:36:36,593 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-22 13:48:58,536 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-22 13:48:58,587 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-22 13:48:58,620 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-22 13:48:58,620 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-22 13:48:58,620 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 QuickTourSwipe       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-22 13:48:58,620 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-22 13:48:58,620 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-22 13:49:02,019 INFO  [BaseTestSanitySuite] applying expilicit wait 
+2015-08-22 13:49:22,925 INFO  [BaseTestSanitySuite] applying explicit wait 
+2015-08-22 13:49:23,699 INFO  [BaseTestSanitySuite] click on lets go shopping text 
+2015-08-26 12:05:23,040 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 12:05:23,076 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 12:05:23,113 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:05:23,113 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:05:23,113 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 12:05:23,113 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:05:23,114 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:07:26,549 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 12:07:26,577 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 12:07:26,607 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:07:26,607 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:07:26,608 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 12:07:26,608 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:07:26,608 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:10:33,481 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 12:10:33,511 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 12:10:33,525 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:10:33,525 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:10:33,525 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 12:10:33,525 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:10:33,525 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:16:07,660 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 12:16:07,683 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 12:16:07,697 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:16:07,697 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:16:07,697 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 Skip Quick Tour       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 12:16:07,697 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:16:07,697 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:16:14,556 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 12:16:14,556 INFO  [BaseTestSanitySuite] X 
+2015-08-26 12:16:14,556 INFO  [BaseTestSanitySuite] X 
+2015-08-26 12:16:14,556 INFO  [BaseTestSanitySuite] X 
+2015-08-26 12:16:14,556 INFO  [BaseTestSanitySuite] X 
+2015-08-26 12:57:01,925 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 12:57:01,950 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 12:57:01,964 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:57:01,964 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:57:01,964 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 12:57:01,965 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 12:57:01,965 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:03:30,863 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:03:30,889 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:03:30,904 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:03:30,904 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:03:30,905 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:03:30,905 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:03:30,905 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:05:36,875 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:05:36,901 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:05:36,918 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:05:36,918 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:05:36,918 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:05:36,918 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:05:36,918 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:07:14,786 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:07:14,810 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:07:14,825 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:07:14,825 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:07:14,825 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:07:14,825 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:07:14,825 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:11:51,487 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:11:51,515 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:11:51,529 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:11:51,530 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:11:51,530 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:11:51,530 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:11:51,530 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:14:01,898 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:14:01,927 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:14:01,942 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:14:01,942 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:14:01,942 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:14:01,942 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:14:01,942 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:22:06,995 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:22:07,017 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:22:07,034 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:22:07,035 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:22:07,035 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:22:07,035 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:22:07,035 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:29:51,806 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:29:51,832 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:29:51,848 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:29:51,848 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:29:51,848 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:29:51,848 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:29:51,849 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:31:38,595 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:31:38,617 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:31:38,640 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:31:38,640 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:31:38,640 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:31:38,640 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:31:38,641 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:33:24,346 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:33:24,382 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:33:24,403 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:33:24,403 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:33:24,403 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:33:24,403 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:33:24,403 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:34:07,340 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 13:34:07,340 INFO  [BaseTestSanitySuite] X 
+2015-08-26 13:34:07,340 INFO  [BaseTestSanitySuite] X 
+2015-08-26 13:34:07,340 INFO  [BaseTestSanitySuite] X 
+2015-08-26 13:34:07,340 INFO  [BaseTestSanitySuite] X 
+2015-08-26 13:38:43,759 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:38:43,789 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:38:43,805 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:38:43,805 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:38:43,805 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:38:43,806 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:38:43,806 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:40:52,228 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:40:52,250 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:40:52,276 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:40:52,276 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:40:52,276 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:40:52,276 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:40:52,276 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:46:33,698 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 13:46:33,722 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 13:46:33,733 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:46:33,733 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:46:33,733 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 13:46:33,733 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 13:46:33,733 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:28:02,590 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 14:28:02,614 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 14:28:02,630 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:28:02,631 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:28:02,631 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 14:28:02,631 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:28:02,631 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:31:36,485 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 14:31:36,507 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 14:31:36,518 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:31:36,518 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:31:36,518 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 14:31:36,519 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:31:36,519 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:35:13,769 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 14:35:13,792 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 14:35:13,804 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:35:13,804 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:35:13,804 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 14:35:13,804 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:35:13,804 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:42:43,914 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 14:42:43,937 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 14:42:43,947 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:42:43,947 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:42:43,947 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 14:42:43,947 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:42:43,947 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:43:05,827 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 14:43:05,827 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:43:05,827 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:43:05,827 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:43:05,827 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:44:18,678 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 14:44:18,703 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 14:44:18,713 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:44:18,713 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:44:18,713 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 14:44:18,713 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:44:18,713 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 14:44:41,187 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 14:44:41,187 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:44:41,187 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:44:41,187 INFO  [BaseTestSanitySuite] X 
+2015-08-26 14:44:41,187 INFO  [BaseTestSanitySuite] X 
+2015-08-26 15:14:15,515 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 15:14:15,539 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 15:14:15,549 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:14:15,549 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:14:15,549 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 15:14:15,550 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:14:15,550 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:14:19,042 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 15:14:19,720 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 15:20:44,086 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 15:20:44,102 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 15:20:44,109 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:20:44,109 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:20:44,109 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 15:20:44,109 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:20:44,109 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:20:47,764 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 15:20:48,397 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 15:21:46,667 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 15:21:46,695 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 15:21:46,704 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:21:46,704 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:21:46,704 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 15:21:46,705 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:21:46,705 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:21:50,280 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 15:21:50,969 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 15:25:20,998 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 15:25:21,014 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 15:25:21,026 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:25:21,026 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:25:21,026 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 15:25:21,026 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:25:21,026 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:25:24,646 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 15:25:25,387 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 15:29:06,396 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 15:29:06,418 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 15:29:06,437 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:29:06,438 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:29:06,438 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 15:29:06,438 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:29:06,438 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 15:29:09,916 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 15:29:10,618 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 16:03:10,361 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 16:03:10,378 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 16:03:10,387 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:03:10,388 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:03:10,388 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                  Select location either automatically and by picking a city       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 16:03:10,388 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:03:10,388 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:03:14,074 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 16:03:14,634 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 16:19:04,717 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 16:19:04,746 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 16:19:04,761 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:19:04,762 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:19:04,762 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 App displays a popup if user tap on Dont see your city in the list       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 16:19:04,762 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:19:04,762 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:19:08,188 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 16:19:08,869 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 16:19:16,298 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 16:19:16,298 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:19:16,298 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:19:16,298 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:19:16,298 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:20:09,034 INFO  [BaseTestSanitySuite] New driver instantiated 
+2015-08-26 16:20:09,053 INFO  [BaseTestSanitySuite] Implicit wait applied 
+2015-08-26 16:20:09,061 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:20:09,061 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:20:09,061 INFO  [BaseTestSanitySuite] $$$$$$$$$$$$$$$$$$$$$                 App displays a popup if user tap on Dont see your city in the list       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-26 16:20:09,061 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:20:09,061 INFO  [BaseTestSanitySuite] **************************************************************************************** 
+2015-08-26 16:20:12,722 INFO  [BaseTestSanitySuite] applying expilcit wait 
+2015-08-26 16:20:13,402 INFO  [BaseTestSanitySuite] clicking on skip button 
+2015-08-26 16:20:26,203 INFO  [BaseTestSanitySuite] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-26 16:20:26,203 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:20:26,203 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:20:26,203 INFO  [BaseTestSanitySuite] X 
+2015-08-26 16:20:26,203 INFO  [BaseTestSanitySuite] X 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59273" started-at="2015-08-26T10:49:31Z" finished-at="2015-08-26T10:50:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59273" started-at="2015-08-26T10:49:31Z" finished-at="2015-08-26T10:50:31Z">
+      <class name="Functional_Scenarios.LocationScenarios">
+        <test-method status="PASS" signature="initializeDrivers()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="initializeDrivers" is-config="true" duration-ms="37152" started-at="2015-08-26T16:19:31Z" finished-at="2015-08-26T16:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrivers -->
+        <test-method status="PASS" signature="unavailableCitiesPopUpConfirmation()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="unavailableCitiesPopUpConfirmation" duration-ms="17151" started-at="2015-08-26T16:20:09Z" finished-at="2015-08-26T16:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unavailableCitiesPopUpConfirmation -->
+        <test-method status="PASS" signature="quitTest()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="quitTest" is-config="true" duration-ms="4944" started-at="2015-08-26T16:20:26Z" finished-at="2015-08-26T16:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitTest -->
+      </class> <!-- Functional_Scenarios.LocationScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
