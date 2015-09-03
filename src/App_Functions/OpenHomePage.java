@@ -3,6 +3,7 @@ package App_Functions;
 import org.testng.annotations.Test;
 import Functional_Scenarios.BaseTestSanitySuite;
 import Page_Objects.App_Constants;
+import Utility.UserDefined;
 
 //This function is used to open Homepage of application
 
@@ -11,9 +12,10 @@ public class OpenHomePage extends BaseTestSanitySuite {
 		try {
 			clickClassName(App_Constants.Skip_button);
 			clickName(App_Constants.DetectAutomatically_name);
-			clickId(App_Constants.SkipButton_id);
+			clickName(App_Constants.SkipButton_name);
 		} catch (Exception e) {
 			e.printStackTrace();
+			UserDefined.takeSnapShot("D:\\takeScreenshots", "Open home page function");
 			throw (e);
 		}
 	}

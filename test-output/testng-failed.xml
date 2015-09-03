@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Functional_Scenarios.LocationScenarios">
+      <class name="Functional_Scenarios.ProductDetailsScenarios">
         <methods>
           <include name="quitTest"/>
           <include name="initializeDrivers"/>
-          <include name="executeTestCase"/>
+          <include name="productFeaturesDetails"/>
         </methods>
-      </class> <!-- Functional_Scenarios.LocationScenarios -->
+      </class> <!-- Functional_Scenarios.ProductDetailsScenarios -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59273" started-at="2015-08-26T10:49:31Z" finished-at="2015-08-26T10:50:31Z">
+  <suite name="Default suite" duration-ms="100918" started-at="2015-09-03T07:45:11Z" finished-at="2015-09-03T07:46:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59273" started-at="2015-08-26T10:49:31Z" finished-at="2015-08-26T10:50:31Z">
-      <class name="Functional_Scenarios.LocationScenarios">
-        <test-method status="PASS" signature="initializeDrivers()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="initializeDrivers" is-config="true" duration-ms="37152" started-at="2015-08-26T16:19:31Z" finished-at="2015-08-26T16:20:09Z">
+    <test name="Default test" duration-ms="100918" started-at="2015-09-03T07:45:11Z" finished-at="2015-09-03T07:46:52Z">
+      <class name="Functional_Scenarios.ProductDetailsScenarios">
+        <test-method status="PASS" signature="initializeDrivers()[pri:0, instance:Functional_Scenarios.ProductDetailsScenarios@67591ba4]" name="initializeDrivers" is-config="true" duration-ms="37189" started-at="2015-09-03T13:15:11Z" finished-at="2015-09-03T13:15:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDrivers -->
-        <test-method status="PASS" signature="unavailableCitiesPopUpConfirmation()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="unavailableCitiesPopUpConfirmation" duration-ms="17151" started-at="2015-08-26T16:20:09Z" finished-at="2015-08-26T16:20:26Z">
+        <test-method status="PASS" signature="productFeaturesDetails()[pri:0, instance:Functional_Scenarios.ProductDetailsScenarios@67591ba4]" name="productFeaturesDetails" duration-ms="59143" started-at="2015-09-03T13:15:48Z" finished-at="2015-09-03T13:16:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- unavailableCitiesPopUpConfirmation -->
-        <test-method status="PASS" signature="quitTest()[pri:0, instance:Functional_Scenarios.LocationScenarios@2a0aa21e]" name="quitTest" is-config="true" duration-ms="4944" started-at="2015-08-26T16:20:26Z" finished-at="2015-08-26T16:20:31Z">
+        </test-method> <!-- productFeaturesDetails -->
+        <test-method status="PASS" signature="quitTest()[pri:0, instance:Functional_Scenarios.ProductDetailsScenarios@67591ba4]" name="quitTest" is-config="true" duration-ms="4556" started-at="2015-09-03T13:16:48Z" finished-at="2015-09-03T13:16:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitTest -->
-      </class> <!-- Functional_Scenarios.LocationScenarios -->
+      </class> <!-- Functional_Scenarios.ProductDetailsScenarios -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

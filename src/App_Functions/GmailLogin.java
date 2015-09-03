@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 import Functional_Scenarios.BaseTestSanitySuite;
 import Page_Objects.App_Constants;
+import Utility.UserDefined;
 
 //This function is created to handle the Gmail login from Login page
 public class GmailLogin extends BaseTestSanitySuite {
@@ -15,6 +16,8 @@ public class GmailLogin extends BaseTestSanitySuite {
 			clickId(App_Constants.Gmail_account_ok_button);
 		} catch (Exception e) {
 			e.printStackTrace();
+			UserDefined.takeSnapShot("D:\\takeScreenshots", "gmailLogin function");
+			throw(e);
 		}
 	}
 

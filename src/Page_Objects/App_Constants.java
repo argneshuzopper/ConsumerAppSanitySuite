@@ -37,10 +37,14 @@ public interface App_Constants {
 	String NavDrawer_Kitchen_Appliances_link = "Kitchen Appliances";
 	String NavDrawer_Home_Appliances_link = "Home Appliances";
 	String NavDrawer_TV_VideoPlayer_link = "TV & Video Player";
-	String NavDrawer_Login_button_id = "com.zopperapp.dev:id/tv_drawer_signup_title";
+	String NavDrawerComputerAccessorieslink_name = "Computer Accessories";
+	String NavDrawerPersonalCare_name = "Personal Care";
+	String NavDrawer_Login_button_id = "com.zopperapp:id/tv_drawer_signup_title";
 	String NavDrawerLocationChild_id = "com.zopperapp:id/tv_drawer_location_child";
 	String NavDrawerLocationIcon_id = "com.zopperapp:id/iv_drawer_location_icon";
 	String NavDrawerLocationTitle_id = "com.zopperapp:id/tv_drawer_location_title";
+	String NavDrawer_loginbutton_name = "Login or Sign up";
+	String NavDrawerHomeIcon_id = "com.zopperapp:id/iv_drawer_home_icon";
 
 	// Home page
 	String Home_Mobiles_Tablets_id = "com.zopperapp.dev:id/iv_root_cat_full1";
@@ -53,6 +57,10 @@ public interface App_Constants {
 	String Cart_id = "com.zopperapp.dev:id/action_cart";
 	String Home_name = "Home";
 	String HomeOverflow_name = "More options";
+	String TrendingProducts_ID = "com.zopperapp:id/tv_home_popular_products_title";
+	//String SearchIcon_id = "com.zopperapp:id/action_search";
+	
+
 
 	// Login page
 	String Login_text = "Login";
@@ -111,6 +119,7 @@ public interface App_Constants {
 	String Myaccount_text = "My Account";
 	String Logout_button_id = "com.zopperapp:id/log_out";
 	String MyAccountSearchIcon_xpath = "//android.widget.FrameLayout /android.widget.TextView[2]";
+	String UserEmailtext_id = "com.zopperapp:id/name_email";
 
 	// Mobile and Tablets page
 	String Android_phones_id = "com.zopperapp.dev:id/iv_popular_cat1";
@@ -118,7 +127,13 @@ public interface App_Constants {
 	String iPad_id = "com.zopperapp.dev:id/iv_popular_cat3";
 	String Windows_phones_id = "com.zopperapp.dev:id/iv_popular_cat4";
 	String MobileAndTablets_text = "Mobiles and Tablets";
-	String MoreCategories_text = "com.zopperapp:id/tv_other_categories_title";
+	String MoreCategories_id = "com.zopperapp:id/tv_other_categories_title";
+	String PopularCategories_id = "com.zopperapp:id/tv_popular_categories_title";
+	String OtherCategores_id = "com.zopperapp:id/tv_other_categories_title";
+	String ProductionAndroid_phones_id = "com.zopperapp:id/iv_popular_cat1";
+	String Productioniphone_id = "com.zopperapp:id/iv_popular_cat2";
+	String ProductioniPad_id = "com.zopperapp:id/iv_popular_cat3";
+	String ProductionWindows_phones_id = "com.zopperapp:id/iv_popular_cat4";
 	
 	//Home Appliances page
 	String HomeAppliances_text = "Home Appliances";
@@ -159,12 +174,20 @@ public interface App_Constants {
 	String FourthProductSimilarName_id = "com.zopperapp:id/tv_fourth_product_name";
 	String ProductDetailsBackbutton_class = "android.widget.ImageButton";
 	String FirstSimilarProductPagination_id = "com.zopperapp.dev:id/tv_product_title";
+	String ProductionProductTitle_id = "com.zopperapp:id/tv_product_title";
 	String GetPricesButton_id = "com.zopperapp.dev:id/tv_get_prices";
+	String ProductImage_id = "com.zopperapp:id/iv_product_image";
+	String OperatingSystem_name = "Operating System";
+	String ProductDetailsPageFirstViewAll_id = "com.zopperapp:id/tv_product_features_view_all";
+	
+	//Product Features
+	String GeneralFeatureSet_text = "GENERAL FEATURE SET";
 
 	// Product Reviews Page
 	String ProductReviewsPencilIcon_id = "com.zopperapp.dev:id/menu_write_review";
 	String ProductReviewsAddedTitle_id = "com.zopperapp.dev:id/review_title";
 	String ProductReviewsBackbutton_class = "android.widget.ImageButton";
+	String BackButton_class = "android.widget.ImageButton";
 
 	// Review Product Page
 	String ReviewProductFiveStarRating_text = "5";
@@ -176,7 +199,7 @@ public interface App_Constants {
 	// Search page
 	String Search_list_view = "android.widget.ListView";
 	String SuggestedProductForSubmitReviewScenario = "//android.widget.FrameLayout /android.widget.ListView /android.widget.LinearLayout /android.widget.TextView";
-
+    String SearchSuggestedFirstProduct_xpath = "//android.widget.FrameLayout /android.widget.ListView /android.widget.LinearLayout /android.widget.TextView";
 	// Select Location
 	String DetectAutomatically_name = "Detect Automatically";
     String SelectLocation_text = "Select Location";
